@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"price": {
+			"name": "price",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "price",
+			"order": 0
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 1
+		},
+		"priceChange": {
+			"name": "priceChange",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "priceChange",
+			"order": 2
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"des": {
+			"name": "des",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "des",
+			"order": 0
+		},
+		"image": {
+			"name": "image",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "image",
+			"order": 1
+		}
+	}
+}
